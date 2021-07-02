@@ -47,12 +47,12 @@ section{
     height: 900px;
 }
 .first-side{
-    background-image: url("images/header-bg.png");
+    background-image: url("Images/header-bg.png");
     background-position: left;
     background-repeat: no-repeat;
 }
 .second-side{
-    background-image: url("images/biography-bg.png");
+    background-image: url("Images/biography-bg.png");
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -112,12 +112,12 @@ p.fou{
     font-size: 20px;
 }
 .third-side{
-    background-image: url(images/latest-work-bg.png);
+    background-image: url(Images/latest-work-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
 #lastbg{
-    background-image: url(images/footer-bg.png);
+    background-image: url(Images/footer-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
