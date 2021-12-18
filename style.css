@@ -68,6 +68,7 @@ h2{
     padding-left: 4%;
    padding-right: 4%;
    
+   
 }
 h1.client{
     text-align: center;
@@ -132,4 +133,13 @@ section.third-side{
 #latest{
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+@media screen and (max-width:500px){
+    #lastdiv{
+        width: 230px;
+        padding: 40px;
+        margin-left: 20%;
+    }
+    
 }
